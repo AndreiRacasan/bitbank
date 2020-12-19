@@ -1,0 +1,36 @@
+@media screen and (max-width: 992px) {
+  .navbar {
+    padding: 0.5rem 1.25rem;
+  }
+
+  #navbarSupportedContent > ul {
+    padding-bottom: 0.5rem;
+    padding-left: 0;
+  }
+
+  #navbarSupportedContent > ul > li:nth-child(n) > a {
+    padding-bottom: 0.35rem;
+    padding-left: 0.55rem;
+  }
+
+  .hero h2 {
+    font-size: 4rem;
+  }
+
+  .hero button {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .hero h2 {
+    font-size: 3.5rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .hero h2 {
+    font-size: 2.7rem;
+  }
+}
