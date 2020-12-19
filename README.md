@@ -1,5 +1,5 @@
 # BitBank
 
-An HTML, CSS and Bootstrap 4 website built for a fictitious startup. Fully mobile responsive.
+A simple, modern and mobile responsive landing page designed for a fictitious start-up. Built with HTML, CSS, JavaScript and Bootstrap.
 
-Click <a href="https://andreiracasan.github.io/bitbank/">__here__</a> for a live demo.
+Click <a href="https://andreiracasan.github.io/bitbank/">**here**</a> for a live demo.
